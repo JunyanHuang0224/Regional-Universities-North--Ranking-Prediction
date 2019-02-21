@@ -1,3 +1,3 @@
 # Regional-Universities-North--Ranking-Prediction
-This proejct aims to build a predictive model for regional universities (north) rankings.
+This project aims to build a predictive model for regional universities (north) rankings.
 The data is corrected manually from USNews (https://www.usnews.com/best-colleges/rankings/regional-universities-north). In the data set, there are 28 columns and 170 rows (before cleaning) and 160 rows (after cleaning). Due to the manual error during the process of data collection, the raw data set needs quite a lot of cleaning. The data cleaning process includes correcting typing errors, unifying data types within attributes, etc. After cleaning the data, the attribute types are various. Some are numeric, such as "Endowment Amount (dollars)", some are string, such as "School Name", some are categorical, such as "School type (private/public)".
